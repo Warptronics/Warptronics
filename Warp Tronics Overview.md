@@ -35,7 +35,7 @@
 <h2>Research &amp; Publications</h2>
 <p>Our commitment to scientific exploration is reflected in our research and publications:</p>
 <ul>
-    <li><strong>&quot;Quantum Aether: Bridging Science and Spirit&quot;</strong>: A comprehensive paper discussing the implications of quantum principles in consciousness studies.</li>
+    <li><strong>&quot;Bridging Science and Spirit Through Psi Mind Wave Communication&quot;</strong>: A comprehensive paper discussing the implications of quantum principles in consciousness studies.</li>
     <li><strong>Presentations at Conferences</strong>: Links to recorded talks and workshops where we share insights into our technology and findings.</li>
 </ul>
 <h2>Testimonials</h2>
