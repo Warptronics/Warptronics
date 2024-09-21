@@ -1,4 +1,4 @@
-Warp Tronics: Engineering Sensonic Systems for Quantum-Aetheric Communication
+Warptronics: Engineering Sensonic Systems for Quantum-Aetheric Communication
 
 Warp Tronics stands at the forefront of a revolutionary approach to integrating super-sensonic technology with quantum aether interfaces. Under the visionary leadership of Stephen John Roberts, a pioneer with over 30 years of experience in radionics and advanced aetheric systems, Warp Tronics designs, manufactures, and refurbishes cutting-edge hardware and software that interface with what we define as the vacuum state of space—the quantum aether.
 
