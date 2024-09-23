@@ -33,7 +33,7 @@ Quantum particle behavior synchronization is lost when quantum particles move th
 When two living sentient beings with fully charged Quantum Holograms merge or “become as one," a third new Quantum Hologram (and being) is produced. *(A Newbe.)*
 
 ### 11th Law:
-*(Reich's Law)*: For Quantum Energy in this dimension: \( V_Q = I_Q \cdot R_Q \).
+*(Reich's Law)*: For Quantum Energy in this dimension: \( V_Q = I_Q * R_Q \).
 
 ### 12th Law:
 Electromagnetic radiation (radio waves) “irritates” the Material Cause (MC) – which adversely affects any Quantum Hologram of Life near the irritation. *(The Law of Irritation)*
@@ -51,7 +51,9 @@ So what do these eleven laws of Quantum Particle Hologram Mechanics mean? There 
 
 For Quantum Energy in this dimension:
 
-\[ V_Q = I_Q \cdot R_Q \]
+$$
+V_Q = I_Q * R_Q
+$$
 
 Where:
 - **\( V_Q \)** is Quantum Voltage
@@ -60,11 +62,15 @@ Where:
 
 And:
 
-\[ Q_P = V_Q \cdot I_Q \]
+$$
+Q_P = V_Q * I_Q
+$$
 
 or
 
-\[ Q_P = I_Q^2 \cdot R_Q \]
+$$
+Q_P = I_Q^2 * R_Q
+$$
 
 This implies there should be an "R value" for the flow of Quantum Current (\( I_Q \)) through various organic and inorganic materials in this dimension.
 
