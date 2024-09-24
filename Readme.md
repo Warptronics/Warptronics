@@ -1,6 +1,4 @@
-<p align="center">
-  ![sr](https://github.com/user-attachments/assets/fa6331f2-84c8-4a20-b2b5-9ce20e4b1ab1)
-</p>
+![sr](https://github.com/user-attachments/assets/fa6331f2-84c8-4a20-b2b5-9ce20e4b1ab1)
 # Engineering Sensonic Systems for Quantum-Aetheric Communication
 
 **Warptronics** stands at the forefront of a revolutionary approach to integrating super-sensonic technology with quantum aether interfaces. Under the visionary leadership of **Stephen John Roberts**, a pioneer with over 30 years of experience in radionics and advanced aetheric systems, Warptronics designs, manufactures, and refurbishes cutting-edge hardware and software that interface with what we define as the vacuum state of space—the quantum aether.
