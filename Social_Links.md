@@ -26,3 +26,6 @@
 
 - **Buy Me a Coffee**:  
   [Support Warp](https://buymeacoffee.com/warpind)
+  
+- **Audius:  
+  https://audius.co/_warp
