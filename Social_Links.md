@@ -27,5 +27,8 @@
 - **Buy Me a Coffee**:  
   [Support Warp](https://buymeacoffee.com/warpind)
   
-- **Audius:  
+- **Audius**:   
   https://audius.co/_warp
+  
+- **Mastodon**:  
+  https://mastodon.social/@_Warp
