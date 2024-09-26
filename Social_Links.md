@@ -33,5 +33,8 @@
 - **Mastodon**:  
   https://mastodon.social/@_Warp
   
+- **Discord**:  
+  https://discord.gg/tveVW4TV
+  
 - **warp@iviv.hu**: 
   https://iviv.hu/people/02ac2fe05e83013d386e723c915ba918
