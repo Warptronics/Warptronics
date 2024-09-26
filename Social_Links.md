@@ -1,4 +1,4 @@
-# WarpTronics Links & Resources
+# Warptronics Links & Resources
 
 - **EcWID - Linkup Page Shop**:  
   [Linkup Shop - Warp](https://linkup.shop/warp)
