@@ -41,3 +41,6 @@
   
 - **WarpShop**: 
   https://warpshop.gumroad.com
+
+- **Warp Blog Spot**: 
+  https://warpindustries.blogspot.com
