@@ -14,3 +14,7 @@ Warptronics' systems are engineered to deliver consistent, measurable outcomes i
 Investing in Warptronics means investing in a future where scientific inquiry and metaphysical exploration converge. Our technology not only pushes the boundaries of quantum communication but also holds the potential to redefine human interactions with higher dimensions. Whether applied to advanced intelligence research, multidimensional travel, or evolving consciousness studies, Warptronics offers a unique, scientifically grounded approach to unlocking the latent potentials of the quantum and aetheric domains.
 
 As we continue to expand, we seek strategic partnerships and funding to enhance our manufacturing capacity and further the development of our next-generation technologies. The future of Warptronics lies in scaling these innovations, refining their applications, and equipping humanity with the tools necessary to explore the deeper realities shaping our existence.
+![Screenshot 2024-09-27 at 22 24 48](https://github.com/user-attachments/assets/5b7e7ad4-282c-488a-ae1f-85fea38c4a4b)
+![Screenshot 2024-09-27 at 22 25 46](https://github.com/user-attachments/assets/9242b982-d3ec-42e5-90ef-e479b0432a2a)
+![Screenshot 2024-09-27 at 22 26 27](https://github.com/user-attachments/assets/60ae063d-020d-42b1-938b-d0a20ee59023)
+
