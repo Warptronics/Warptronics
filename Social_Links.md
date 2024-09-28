@@ -8,6 +8,9 @@
 
 - **Link Up Page**:  
   [bit.ly/m/Warp](https://bit.ly/m/Warp)
+  
+- **Medium**:  
+  https://medium.com/@.warp
 
 - **Matrix Chat Element**:  
   [Join Matrix Chat](https://matrix.to/#/#warped:matrix.org)
@@ -50,3 +53,6 @@
   
 - **WhatsApp**: 
   https://chat.whatsapp.com/GiLp7kT9Gju5WMqew6SbBi
+  
+- **Google Cloud**: 
+github.com.warp@gmail.com
