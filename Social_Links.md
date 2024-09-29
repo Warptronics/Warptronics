@@ -54,6 +54,9 @@
 - **WhatsApp**: 
   https://chat.whatsapp.com/GiLp7kT9Gju5WMqew6SbBi
   
+- **Ko-Fi**: 
+  ko-fi.com/w_a_r_p
+  
 - **Google Cloud**: 
 github.com.warp@gmail.com
 
