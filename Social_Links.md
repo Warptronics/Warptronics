@@ -25,7 +25,7 @@
  [ Status: **X**](https://x.com/WarpOnAir)
 
 - **WarpTronics**:  
-  Status: **X**
+  [Status: **X**](https://x.com/WarpIndustries)
 
 - **Buy Me a Coffee**:  
   [Support Warp](https://buymeacoffee.com/warpind)
@@ -49,7 +49,7 @@
   https://warpindustries.blogspot.com
 
 - **Instagram**: 
-  https://www.instagram.com/_w_a_r_p/
+  https://www.instagram.com/warponair/
   
 - **WhatsApp**: 
   https://chat.whatsapp.com/GiLp7kT9Gju5WMqew6SbBi
