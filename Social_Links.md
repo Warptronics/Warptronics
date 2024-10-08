@@ -11,6 +11,9 @@
   
 - **Medium**:  
   https://medium.com/@.warp
+  
+- **Hugging Face**:  
+  https://huggingface.co/WarpHQ
 
 - **Matrix Chat Element**:  
   [Join Matrix Chat](https://matrix.to/#/#warped:matrix.org)
