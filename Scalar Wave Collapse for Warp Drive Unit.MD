@@ -13,5 +13,3 @@ At the point of **waveform collapse**, the system is able to achieve absolute pr
 The **Oscillator Art - NTS-2** provides a window into the energetic matrix, creating a seamless link between sound, geometry, and intention—turning abstract waveforms into structured, impactful **sigil portals** for advanced meditative and aetheric practices.
 
 ---
-
-[Learn more about the NTS-2](https://www.korg.co.uk/products/nts2?utm_campaign=Buy_button&utm_medium=Buy_button&utm_source=korg.com)
