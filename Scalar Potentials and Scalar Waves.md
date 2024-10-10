@@ -55,13 +55,12 @@ A theoretical scalar communication system attempts to exploit magnetic field rep
 
 Scalar wave theory continues to captivate certain fringe communities, but it remains **pseudoscientific** in the eyes of the established scientific community. While we present this information to give you insight into the claims surrounding scalar waves, we encourage a critical approach and a reliance on proven science.
 
-We are not trying to prove or disprove scalar theory, only to provide unbiased information. If you can contribute to improving this section, please [contact us](#).
+We are not trying to prove or disprove scalar theory, only to provide unbiased information. If you can contribute to improving this section, please [contact us](#). https://www.rmcybernetics.com/science/physics/electromagnetism/scalar-waves
 
 ---
 
 ## Further Reading
-[
-](https://www.rmcybernetics.com/science/physics/electromagnetism/scalar-waves)
+
 ---
 
 ### Info from Wikipedia:
