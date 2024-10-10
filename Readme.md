@@ -15,3 +15,11 @@ Investing in Warptronics means investing in a future where scientific inquiry an
 
 As we continue to expand, we seek strategic partnerships and funding to enhance our manufacturing capacity and further the development of our next-generation technologies. The future of Warptronics lies in scaling these innovations, refining their applications, and equipping humanity with the tools necessary to explore the deeper realities shaping our existence.
 
+---
+
+**For Stock Availability, Product Options, and Latest Pricing:**  
+Please **[Contact Us](mailto:wearewarp@zohomail.eu)** for the most up-to-date information on stock availability, customization options, and pricing details for our products. Happy to assist you with any inquiries and provide tailored solutions to meet your needs.
+
+---
+
+
