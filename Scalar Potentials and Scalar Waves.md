@@ -60,10 +60,8 @@ We are not trying to prove or disprove scalar theory, only to provide unbiased i
 ---
 
 ## Further Reading
-
-- [Next Page: Light in Materials](./light-in-materials.md)
-- [Previous Page: Standing Waves](./standing-waves.md)
-
+[
+](https://www.rmcybernetics.com/science/physics/electromagnetism/scalar-waves)
 ---
 
 ### Info from Wikipedia:
