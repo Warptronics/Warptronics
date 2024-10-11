@@ -15,6 +15,9 @@
 - **Medium**:  
   https://medium.com/@.warp
   
+- **COMMUNITY FORUM**:  
+  https://warp.bettermode.io
+  
 - **Hugging Face**:  
   https://huggingface.co/WarpHQ
 
