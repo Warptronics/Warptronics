@@ -3,6 +3,9 @@
 - **EcWID - Linkup Page Shop**:  
   [Linkup Shop - Warp](https://linkup.shop/warp)
 
+  - **EcWID - Linkup Page Shop**:
+    https://warp.squarespace.com
+
 - **EcWID Storefront**:  
   [Warp Company Site](https://warp.company.site)
 
