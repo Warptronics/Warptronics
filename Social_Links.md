@@ -81,6 +81,9 @@ https://huggingface.co/W-a-r-p
 - **Kaggle**:
 https://www.kaggle.com/xwarpx
 
+- **substack**:
+https://warptronics.substack.com
+
 - **Pintrest**:
 https://uk.pinterest.com/WarpOnAir/
 
