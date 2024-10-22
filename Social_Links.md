@@ -9,6 +9,10 @@
 - **EcWID Storefront**:  
   [Warp Company Site](https://warp.company.site)
 
+- **YouTube**:
+  https://www.youtube.com/@WarpSignalRadio
+   
+
 - **Link Up Page**:  
   [bit.ly/m/Warp](https://bit.ly/m/Warp)
   
