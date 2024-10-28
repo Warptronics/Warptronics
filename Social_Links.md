@@ -45,6 +45,9 @@
 
 - **Buy Me a Coffee**:  
   [Support Warp](https://buymeacoffee.com/warpind)
+
+- **Patreon**:  
+https://www.patreon.com/c/_Warp
   
 - **Audius**:   
   https://audius.co/_warp
