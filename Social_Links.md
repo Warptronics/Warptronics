@@ -34,6 +34,9 @@
 - **Stripe Donations**:  
   [Donate via Stripe](https://donate.stripe.com/cN23el8yKdJJ63u6op)
 
+- **REDDIT**:  
+https://www.reddit.com/r/W_A_R_P/
+
 - **Warp Industries**:  
   Status: **X**
 
